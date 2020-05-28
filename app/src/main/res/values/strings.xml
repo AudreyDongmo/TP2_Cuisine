@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercice2_Audrey_Dongmo</string>
+    <string name="canape">Canape en cuir marron</string>
+    <string name="un">1</string>
+    <string name="panier">AJOUTER AU PANIER</string>
+    <string name="produit"> Produit du meme genre</string>
+    <string name="siege"> Sièges</string>
+    <string name="canapeB">Canape en cuir blanc</string>
+    <string name="canapeN">Canape en cuir noir</string>
+    <string name="realisateur">Par Krawist Marketplace</string>
+    <string name="monyant1">30000.0 FCFA</string>
+    <string name="montant2">25000.0 FCFA</string>
+
+
+
+
+
+
+
+
+</resources>
